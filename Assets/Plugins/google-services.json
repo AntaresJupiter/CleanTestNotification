@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "158762839036",
+    "firebase_url": "https://testnotification-448f5.firebaseio.com",
+    "project_id": "testnotification-448f5",
+    "storage_bucket": "testnotification-448f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158762839036:android:b1109075d3352377",
+        "android_client_info": {
+          "package_name": "com.test.bite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158762839036-572i8rf8tbajdkoturl5q235bahc94et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_2r370UQNnwK1JX8CqFYKos8hJmzaYWI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
